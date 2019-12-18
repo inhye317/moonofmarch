@@ -22,7 +22,7 @@ description: Enjoy a private photoshoot in beautiful South Korea.The perfect tre
 
 ---
 
-The bridal shower is a best way for a bride to relax and enjoy the company of your closest friends or family. Capture the special moments of your bridal shower in photographs.
+The bridal shower is the best way for a bride to relax and enjoy the company of your closest friends or family. Capture the special moments of your bridal shower in photographs.
 
 ![first](/img/post/03/02.jpg)
 
